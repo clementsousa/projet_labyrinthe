@@ -1,0 +1,27 @@
+graph {
+0;
+1;
+2;
+3;
+4;
+5;
+
+4 -- 0
+
+subgraph cluster0 {
+5;
+ 
+}subgraph cluster1 {
+3;
+ 
+}subgraph cluster2 {
+2;
+ 
+}subgraph cluster3 {
+1;
+ 
+}subgraph cluster4 {
+4;
+ 0;
+ 
+}}

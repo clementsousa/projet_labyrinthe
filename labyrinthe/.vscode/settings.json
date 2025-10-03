@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "sdl_ttf.h": "c",
+        "stdio.h": "c",
+        "kruskal.h": "c",
+        "tas_binaire.h": "c",
+        "labyrinthe.h": "c",
+        "constante.h": "c",
+        "parcours_graphe.h": "c",
+        "map": "c",
+        "sdl_image.h": "c",
+        "affichage.h": "c",
+        "coeur.h": "c"
+    }
+}

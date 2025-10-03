@@ -1,0 +1,41 @@
+graph {
+0;
+1;
+2;
+3;
+4;
+5;
+6;
+7;
+8;
+9;
+
+0 -- 7
+3 -- 8
+7 -- 8
+
+subgraph cluster0 {
+9;
+ 
+}subgraph cluster1 {
+6;
+ 
+}subgraph cluster2 {
+5;
+ 
+}subgraph cluster3 {
+4;
+ 
+}subgraph cluster4 {
+2;
+ 
+}subgraph cluster5 {
+1;
+ 
+}subgraph cluster6 {
+8;
+ 7;
+ 3;
+ 0;
+ 
+}}
